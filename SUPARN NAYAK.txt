@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PERSONAL INFO</title>
+</head>
+<body bgcolor="coral">
+    
+    <pre> <h1>                                          MY PERSONAL INFO</h1></pre>
+    <h2>Name:</h2>Suparn nayak<br>
+    <h2>USN:</h2>1MV23CS161<br>
+    <h2>Tech stack:</h2>C,Python,HTML..<br>
+    <hr>
+    <p>MY GIT PROFILE</p>
+
+    <a  href="https://github.com/Suparnnayak" ><img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Symbol.png"
+        +alt="GIT"
+        height="100"></a>
+ 
+
+    <p> I'm a beginner to coding.I'm presently learning and looking forward to learn more.
+    </p>
+      
+ 
+
+</body>
+</html>
+ 
